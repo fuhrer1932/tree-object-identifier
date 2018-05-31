@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2018-05</folder>
+	<filename>chrome_2018-05-31_18-28-30.png</filename>
+	<path>E:\Safal\Tensorflow Images\2018-05\chrome_2018-05-31_18-28-30.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>189</ymin>
+			<xmax>227</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>
